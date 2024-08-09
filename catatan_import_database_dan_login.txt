@@ -1,3 +1,9 @@
+* Kelompok 6
+   10122001 – Revi Faturahman 
+   10122006 – Fadil Hardiyansyah 
+   10122013 – Hilmy Abdurrahman D 
+   10122021 – Tijar Taufik Rahman 
+
 
 * Import Database Dengan Nama Database "resto_unikom" Selanjutnya Import file sql nya
 
