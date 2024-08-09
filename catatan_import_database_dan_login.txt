@@ -1,0 +1,16 @@
+
+* Import Database Dengan Nama Database "resto_unikom" Selanjutnya Import file sql nya
+
+* Login Admin 
+   Email : admin@gmail.com
+   Password : 12345
+* Login Waiter 
+   Email : waiter@gmail.com
+   Password : 12345
+* Login Chef 
+   Email : chef@gmail.com
+   Password : 12345
+* Login Cashier
+   Email : cashier@gmail.com
+   Password : 12345
+
